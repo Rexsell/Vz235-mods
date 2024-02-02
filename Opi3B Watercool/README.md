@@ -2,6 +2,9 @@
 
 [Watercooling block, 30mm](https://aliexpress.ru/item/1005003484244869.html?sku_id=12000030661508959)
 
+Recommended screws: M3x25
+Also, washer is recommended
+
 [Springs](https://aliexpress.ru/item/32810946039.html?sku_id=64546958202&spm=a2g2w.productlist.search_results.0.1aaa34d6B3qq9w)
 
 or alternative and more expensve variant:
