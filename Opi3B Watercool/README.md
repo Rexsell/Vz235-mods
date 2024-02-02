@@ -1,6 +1,6 @@
  Adapter plate for watercooling your OPI 3B
 
-[Plate, 30mm](https://aliexpress.ru/item/1005003484244869.html?sku_id=12000030661508959)
+[Watercooling block, 30mm](https://aliexpress.ru/item/1005003484244869.html?sku_id=12000030661508959)
 
 [Springs, 10mm, 5mm, 0.3mm](https://aliexpress.ru/item/1005002799130178.html)
 
