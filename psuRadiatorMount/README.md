@@ -2,7 +2,8 @@ My own mount for radiator for watercooling
 
 Standart radiator for 120mm fan
 
-Also i have added remixed fan guard, so you can easily use 'VzBot-like' guard in your design
+Also i have added remixed fan guard, so you can easily use 'VzBot-like' guard in your design.
+
 And cutouts for nylon ties to fix your tube
 
 Splitter can be found [here](https://aliexpress.ru/item/1005004807850181.html), SY30 3 Way 5 Port is used in design, should be enough. But you can choose bigger splitter, but you are able to mount it on 2 screws instead of 4
